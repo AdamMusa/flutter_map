@@ -7,7 +7,7 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter_map/flutter_map.dart';
 import 'package:flutter_map/src/map/flutter_map_state.dart';
 import 'package:flutter_map/src/map/map.dart';
-
+import 'package:latlong2/latlong.dart';
 import 'package:positioned_tap_detector_2/positioned_tap_detector_2.dart';
 
 export 'package:flutter_map/src/core/center_zoom.dart';
